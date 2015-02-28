@@ -1,4 +1,5 @@
-/* line 33, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+@charset "UTF-8";
+/* line 22, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 article,
 aside,
 details,
@@ -13,7 +14,7 @@ section,
 summary {
   display: block; }
 
-/* line 40, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 38, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 audio,
 canvas,
 video {
@@ -21,16 +22,16 @@ video {
   *display: inline;
   *zoom: 1; }
 
-/* line 48, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 48, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 audio:not([controls]) {
   display: none;
   height: 0; }
 
-/* line 55, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 55, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 [hidden] {
   display: none; }
 
-/* line 77, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 77, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 html {
   background: #fff;
   color: #000;
@@ -38,7 +39,7 @@ html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%; }
 
-/* line 92, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 88, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 html,
 button,
 input,
@@ -46,83 +47,83 @@ select,
 textarea {
   font-family: sans-serif; }
 
-/* line 98, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 98, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 body {
   margin: 0; }
 
-/* line 113, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 113, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 a:focus {
   outline: thin dotted; }
 
-/* line 119, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 118, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 a:active,
 a:hover {
   outline: 0; }
 
-/* line 132, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 132, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 h1 {
   font-size: 2em;
   margin: 0.67em 0; }
 
-/* line 137, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 137, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 h2 {
   font-size: 1.5em;
   margin: 0.83em 0; }
 
-/* line 142, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 142, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 h3 {
   font-size: 1.17em;
   margin: 1em 0; }
 
-/* line 147, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 147, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 h4 {
   font-size: 1em;
   margin: 1.33em 0; }
 
-/* line 152, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 152, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 h5 {
   font-size: 0.83em;
   margin: 1.67em 0; }
 
-/* line 157, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 157, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 h6 {
   font-size: 0.67em;
   margin: 2.33em 0; }
 
-/* line 163, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 163, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 abbr[title] {
   border-bottom: 1px dotted; }
 
-/* line 169, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 168, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 b,
 strong {
   font-weight: bold; }
 
-/* line 173, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 173, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 blockquote {
   margin: 1em 40px; }
 
-/* line 178, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 178, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 dfn {
   font-style: italic; }
 
-/* line 184, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 184, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
   height: 0; }
 
-/* line 191, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 191, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 mark {
   background: #ff0;
   color: #000; }
 
-/* line 198, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 197, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 p,
 pre {
   margin: 1em 0; }
 
-/* line 206, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 203, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 code,
 kbd,
 pre,
@@ -131,27 +132,27 @@ samp {
   _font-family: 'courier new', monospace;
   font-size: 1em; }
 
-/* line 213, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 213, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 pre {
   white-space: pre;
   white-space: pre-wrap;
   word-wrap: break-word; }
 
-/* line 220, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 220, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 q {
   quotes: none; }
 
-/* line 226, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 225, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 q:before,
 q:after {
   content: '';
   content: none; }
 
-/* line 232, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 232, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 small {
   font-size: 80%; }
 
-/* line 238, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 237, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 sub,
 sup {
   font-size: 75%;
@@ -159,68 +160,68 @@ sup {
   position: relative;
   vertical-align: baseline; }
 
-/* line 245, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 245, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 sup {
   top: -0.5em; }
 
-/* line 249, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 249, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 sub {
   bottom: -0.25em; }
 
-/* line 263, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 260, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 dl,
 menu,
 ol,
 ul {
   margin: 1em 0; }
 
-/* line 267, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 267, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 dd {
   margin: 0 0 0 40px; }
 
-/* line 274, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 272, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 menu,
 ol,
 ul {
   padding: 0 0 0 40px; }
 
-/* line 280, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 279, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 nav ul,
 nav ol {
   list-style: none;
   list-style-image: none; }
 
-/* line 293, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 293, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 img {
   border: 0;
   -ms-interpolation-mode: bicubic; }
 
-/* line 299, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 299, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 svg:not(:root) {
   overflow: hidden; }
 
-/* line 310, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 310, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 figure {
   margin: 0; }
 
-/* line 321, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 321, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 form {
   margin: 0; }
 
-/* line 326, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 326, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em; }
 
-/* line 335, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 335, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 legend {
   border: 0;
   padding: 0;
   white-space: normal;
   *margin-left: -7px; }
 
-/* line 349, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 346, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 button,
 input,
 select,
@@ -230,17 +231,17 @@ textarea {
   vertical-align: baseline;
   *vertical-align: middle; }
 
-/* line 359, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 358, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 button,
 input {
   line-height: normal; }
 
-/* line 368, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 367, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 button,
 select {
   text-transform: none; }
 
-/* line 382, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 379, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 button,
 html input[type="button"],
 input[type="reset"],
@@ -249,12 +250,12 @@ input[type="submit"] {
   cursor: pointer;
   *overflow: visible; }
 
-/* line 390, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 389, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 button[disabled],
 html input[disabled] {
   cursor: default; }
 
-/* line 399, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 398, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
@@ -262,58 +263,58 @@ input[type="radio"] {
   *height: 13px;
   *width: 13px; }
 
-/* line 409, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 409, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 input[type="search"] {
   -webkit-appearance: textfield;
   -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
   box-sizing: content-box; }
 
-/* line 419, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 418, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none; }
 
-/* line 425, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 424, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
   padding: 0; }
 
-/* line 432, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 432, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 textarea {
   overflow: auto;
   vertical-align: top; }
 
-/* line 444, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
+/* line 444, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_normalize.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-/* line 22, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
+/* line 18, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
 html,
 button,
 input,
 select,
 textarea {
-  color: #222222; }
+  color: #222; }
 
-/* line 26, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
+/* line 26, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
 body {
   font-size: 1em;
   line-height: 1.4; }
 
-/* line 34, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
+/* line 34, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
 ::-moz-selection {
   background: #b3d4fc;
   text-shadow: none; }
 
-/* line 39, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
+/* line 39, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
 ::selection {
   background: #b3d4fc;
   text-shadow: none; }
 
-/* line 45, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
+/* line 45, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
 hr {
   display: block;
   height: 1px;
@@ -322,42 +323,45 @@ hr {
   margin: 1em 0;
   padding: 0; }
 
-/* line 55, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
+/* line 55, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
 img {
   vertical-align: middle; }
 
-/* line 60, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
+/* line 60, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
 fieldset {
   border: 0;
   margin: 0;
   padding: 0; }
 
-/* line 67, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
+/* line 67, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_main.scss */
 textarea {
   resize: vertical; }
 
-/* line 28, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+/* line 28, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
 .container {
   *zoom: 1;
   max-width: 460px;
+  max-width: 28.75rem;
   _width: 460px;
   padding-left: 10px;
+  padding-left: 0.625rem;
   padding-right: 10px;
+  padding-right: 0.625rem;
   margin-left: auto;
   margin-right: auto; }
-  /* line 38, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+  /* line 38, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_clearfix.scss */
   .container:after {
     content: "";
     display: table;
     clear: both; }
-  /* line 35, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 35, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
   .container nav ul {
     font-size: 120%;
     font-weight: bold; }
-  /* line 39, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 39, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
   .container nav ol {
     list-style: decimal; }
-  /* line 42, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 42, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
   .container nav ul, .container nav ol {
     width: 100%;
     float: left;
@@ -370,40 +374,39 @@ textarea {
     *zoom: 1;
     margin-bottom: 1em;
     text-align: center; }
-    /* line 49, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_inline-block-list.scss */
+    /* line 49, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/lists/_inline-block-list.scss */
     .container nav ul li, .container nav ol li {
       list-style-image: none;
       list-style-type: none;
       margin-left: 0;
-      display: -moz-inline-stack;
       display: inline-block;
       vertical-align: middle;
       *vertical-align: auto;
-      zoom: 1;
+      *zoom: 1;
       *display: inline;
       white-space: nowrap; }
-    /* line 48, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 48, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
     .container nav ul li, .container nav ol li {
       box-sizing: border-box;
       width: 180px;
       overflow: hidden;
       text-align: center;
       position: relative; }
-      /* line 55, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+      /* line 55, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
       .container nav ul li a, .container nav ol li a {
         overflow: hidden;
         font-size: 90%;
         text-decoration: none;
-        color: white;
+        color: #fff;
         padding-bottom: 1em;
         padding-top: 1em;
         display: block; }
-      /* line 65, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+      /* line 65, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
       .container nav ul li .name, .container nav ol li .name {
         font-weight: bold;
         color: #ff7e1f;
         font-family: "neuzon", sans-serif; }
-      /* line 70, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+      /* line 70, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
       .container nav ul li .num, .container nav ol li .num {
         position: absolute;
         left: 20%;
@@ -413,19 +416,19 @@ textarea {
         opacity: 0.3;
         font-family: "neuzon", sans-serif; }
 
-/* line 79, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+/* line 79, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
 header, #main-content, #main, footer, nav {
   overflow: hidden;
   *zoom: 1; }
 
-/* line 84, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+/* line 84, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
 footer div {
   width: 134.78261%;
   float: left;
   margin-right: 4.34783%;
   display: inline; }
 
-/* line 89, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+/* line 89, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
 header h1 {
   width: 48.3871%;
   float: right;
@@ -434,70 +437,73 @@ header h1 {
   display: inline; }
 
 @media (min-width: 620px) {
-  /* line 97, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 97, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
   .container {
-    max-width: 620px; } }
+    max-width: 620px;
+    max-width: 38.75rem; } }
 @media (min-width: 940px) {
-  /* line 97, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 97, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
   .container {
-    max-width: 940px; } }
+    max-width: 940px;
+    max-width: 58.75rem; } }
 @media (min-width: 1260px) {
-  /* line 97, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 97, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
   .container {
-    max-width: 1260px; } }
+    max-width: 1260px;
+    max-width: 78.75rem; } }
 @media (min-width: 620px) {
-  /* line 102, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 102, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
   #main, footer > div {
     width: 100%;
     float: left;
     margin-right: 3.22581%; }
-    /* line 104, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 104, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
     #main #description, footer > div #description {
       width: 48.3871%;
       float: left;
       margin-right: 3.22581%; }
-    /* line 106, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 106, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
     #main #schedule, footer > div #schedule {
       width: 48.3871%;
       float: right;
       margin-right: 0; }
-    /* line 108, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 108, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
     #main #details, footer > div #details {
       width: 100%;
       float: left;
       margin-right: 3.22581%; } }
 @media (min-width: 940px) {
-  /* line 112, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 112, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
   #main, footer > div {
     width: 82.97872%;
     float: left;
     margin-right: 2.12766%;
     padding-left: 8.51064%;
     padding-right: 8.51064%; }
-    /* line 116, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 116, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
     #main #description, footer > div #description {
       width: 48.71795%;
       float: left;
       margin-right: 2.5641%; }
-    /* line 118, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 118, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
     #main #schedule, footer > div #schedule {
       width: 48.71795%;
       float: right;
       margin-right: 0; } }
 @media (min-width: 1260px) {
-  /* line 123, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+  /* line 123, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
   #main, footer > div {
     width: 74.60317%;
     float: left;
     margin-right: 1.5873%;
     padding-left: 12.69841%;
     padding-right: 12.69841%; }
-    /* line 127, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 127, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
     #main #description, footer > div #description {
       width: 48.93617%;
       float: left;
       margin-right: 2.12766%; }
-    /* line 129, /Users/jarkko/Sites/trailcup/source/stylesheets/grid/_magic.sass */
+    /* line 129, /Users/jarkko/sites/trailcup/source/stylesheets/grid/_magic.sass */
     #main #schedule, footer > div #schedule {
       width: 48.93617%;
       float: right;
@@ -514,8 +520,7 @@ header h1 {
   src: url("/fonts/fontawesome-webfont.eot?#iefix&v=4.0.3") format("embedded-opentype"), url("/fonts/fontawesome-webfont.woff?v=4.0.3") format("woff"), url("/fonts/fontawesome-webfont.ttf?v=4.0.3") format("truetype"), url("/fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular") format("svg");
   font-weight: normal;
   font-style: normal; }
-
-/* line 4, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_core.scss */
+/* line 4, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_core.scss */
 .fa {
   display: inline-block;
   font-family: FontAwesome;
@@ -526,75 +531,75 @@ header h1 {
   -moz-osx-font-smoothing: grayscale; }
 
 /* makes the font 33% larger relative to the icon container */
-/* line 7, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_larger.scss */
+/* line 7, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_larger.scss */
 .fa-lg {
   font-size: 1.33333em;
   line-height: 0.75em;
   vertical-align: -15%; }
 
-/* line 12, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_larger.scss */
+/* line 12, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_larger.scss */
 .fa-2x {
   font-size: 2em; }
 
-/* line 13, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_larger.scss */
+/* line 13, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_larger.scss */
 .fa-3x {
   font-size: 3em; }
 
-/* line 14, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_larger.scss */
+/* line 14, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_larger.scss */
 .fa-4x {
   font-size: 4em; }
 
-/* line 15, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_larger.scss */
+/* line 15, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_larger.scss */
 .fa-5x {
   font-size: 5em; }
 
-/* line 5, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_fixed-width.scss */
+/* line 5, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_fixed-width.scss */
 .fa-fw {
   width: 1.28571em;
   text-align: center; }
 
-/* line 6, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_list.scss */
+/* line 6, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_list.scss */
 .fa-ul {
   padding-left: 0;
   margin-left: 2.14286em;
   list-style-type: none; }
-  /* line 10, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_list.scss */
+  /* line 10, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_list.scss */
   .fa-ul > li {
     position: relative; }
 
-/* line 12, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_list.scss */
+/* line 12, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_list.scss */
 .fa-li {
   position: absolute;
   left: -2.14286em;
   width: 2.14286em;
   top: 0.14286em;
   text-align: center; }
-  /* line 18, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_list.scss */
+  /* line 18, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_list.scss */
   .fa-li.fa-lg {
     left: -1.85714em; }
 
-/* line 6, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_bordered-pulled.scss */
+/* line 6, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_bordered-pulled.scss */
 .fa-border {
   padding: .2em .25em .15em;
-  border: solid 0.08em #eeeeee;
+  border: solid 0.08em #eee;
   border-radius: .1em; }
 
-/* line 12, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_bordered-pulled.scss */
+/* line 12, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_bordered-pulled.scss */
 .pull-right {
   float: right; }
 
-/* line 13, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_bordered-pulled.scss */
+/* line 13, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_bordered-pulled.scss */
 .pull-left {
   float: left; }
 
-/* line 16, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_bordered-pulled.scss */
+/* line 16, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_bordered-pulled.scss */
 .fa.pull-left {
   margin-right: .3em; }
-/* line 17, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_bordered-pulled.scss */
+/* line 17, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_bordered-pulled.scss */
 .fa.pull-right {
   margin-left: .3em; }
 
-/* line 6, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_spinning.scss */
+/* line 6, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_spinning.scss */
 .fa-spin {
   -webkit-animation: spin 2s infinite linear;
   -moz-animation: spin 2s infinite linear;
@@ -602,51 +607,31 @@ header h1 {
   animation: spin 2s infinite linear; }
 
 @-moz-keyframes spin {
-  /* line 14, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_spinning.scss */
   0% {
     -moz-transform: rotate(0deg); }
-
-  /* line 15, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_spinning.scss */
   100% {
     -moz-transform: rotate(359deg); } }
-
 @-webkit-keyframes spin {
-  /* line 18, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_spinning.scss */
   0% {
     -webkit-transform: rotate(0deg); }
-
-  /* line 19, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_spinning.scss */
   100% {
     -webkit-transform: rotate(359deg); } }
-
 @-o-keyframes spin {
-  /* line 22, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_spinning.scss */
   0% {
     -o-transform: rotate(0deg); }
-
-  /* line 23, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_spinning.scss */
   100% {
     -o-transform: rotate(359deg); } }
-
 @-ms-keyframes spin {
-  /* line 26, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_spinning.scss */
   0% {
     -ms-transform: rotate(0deg); }
-
-  /* line 27, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_spinning.scss */
   100% {
     -ms-transform: rotate(359deg); } }
-
 @keyframes spin {
-  /* line 30, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_spinning.scss */
   0% {
     transform: rotate(0deg); }
-
-  /* line 31, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_spinning.scss */
   100% {
     transform: rotate(359deg); } }
-
-/* line 6, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_rotated-flipped.scss */
+/* line 6, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_rotated-flipped.scss */
 .fa-rotate-90 {
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=$rotation);
   -webkit-transform: rotate(90deg);
@@ -655,7 +640,7 @@ header h1 {
   -o-transform: rotate(90deg);
   transform: rotate(90deg); }
 
-/* line 7, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_rotated-flipped.scss */
+/* line 7, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_rotated-flipped.scss */
 .fa-rotate-180 {
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=$rotation);
   -webkit-transform: rotate(180deg);
@@ -664,7 +649,7 @@ header h1 {
   -o-transform: rotate(180deg);
   transform: rotate(180deg); }
 
-/* line 8, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_rotated-flipped.scss */
+/* line 8, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_rotated-flipped.scss */
 .fa-rotate-270 {
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=$rotation);
   -webkit-transform: rotate(270deg);
@@ -673,7 +658,7 @@ header h1 {
   -o-transform: rotate(270deg);
   transform: rotate(270deg); }
 
-/* line 10, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_rotated-flipped.scss */
+/* line 10, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_rotated-flipped.scss */
 .fa-flip-horizontal {
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=$rotation);
   -webkit-transform: scale(-1, 1);
@@ -682,7 +667,7 @@ header h1 {
   -o-transform: scale(-1, 1);
   transform: scale(-1, 1); }
 
-/* line 11, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_rotated-flipped.scss */
+/* line 11, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_rotated-flipped.scss */
 .fa-flip-vertical {
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=$rotation);
   -webkit-transform: scale(1, -1);
@@ -691,7 +676,7 @@ header h1 {
   -o-transform: scale(1, -1);
   transform: scale(1, -1); }
 
-/* line 6, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_stacked.scss */
+/* line 6, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_stacked.scss */
 .fa-stack {
   position: relative;
   display: inline-block;
@@ -700,1621 +685,1621 @@ header h1 {
   line-height: 2em;
   vertical-align: middle; }
 
-/* line 14, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_stacked.scss */
+/* line 14, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_stacked.scss */
 .fa-stack-1x, .fa-stack-2x {
   position: absolute;
   left: 0;
   width: 100%;
   text-align: center; }
 
-/* line 20, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_stacked.scss */
+/* line 20, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_stacked.scss */
 .fa-stack-1x {
   line-height: inherit; }
 
-/* line 21, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_stacked.scss */
+/* line 21, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_stacked.scss */
 .fa-stack-2x {
   font-size: 2em; }
 
-/* line 22, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_stacked.scss */
+/* line 22, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_stacked.scss */
 .fa-inverse {
-  color: white; }
+  color: #fff; }
 
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
-/* line 5, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 5, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-glass:before {
-  content: "\f000"; }
+  content: ""; }
 
-/* line 6, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 6, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-music:before {
-  content: "\f001"; }
+  content: ""; }
 
-/* line 7, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 7, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-search:before {
-  content: "\f002"; }
+  content: ""; }
 
-/* line 8, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 8, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-envelope-o:before {
-  content: "\f003"; }
+  content: ""; }
 
-/* line 9, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 9, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-heart:before {
-  content: "\f004"; }
+  content: ""; }
 
-/* line 10, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 10, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-star:before {
-  content: "\f005"; }
+  content: ""; }
 
-/* line 11, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 11, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-star-o:before {
-  content: "\f006"; }
+  content: ""; }
 
-/* line 12, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 12, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-user:before {
-  content: "\f007"; }
+  content: ""; }
 
-/* line 13, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 13, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-film:before {
-  content: "\f008"; }
+  content: ""; }
 
-/* line 14, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 14, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-th-large:before {
-  content: "\f009"; }
+  content: ""; }
 
-/* line 15, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 15, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-th:before {
-  content: "\f00a"; }
+  content: ""; }
 
-/* line 16, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 16, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-th-list:before {
-  content: "\f00b"; }
+  content: ""; }
 
-/* line 17, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 17, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-check:before {
-  content: "\f00c"; }
+  content: ""; }
 
-/* line 18, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 18, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-times:before {
-  content: "\f00d"; }
+  content: ""; }
 
-/* line 19, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 19, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-search-plus:before {
-  content: "\f00e"; }
+  content: ""; }
 
-/* line 20, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 20, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-search-minus:before {
-  content: "\f010"; }
+  content: ""; }
 
-/* line 21, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 21, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-power-off:before {
-  content: "\f011"; }
+  content: ""; }
 
-/* line 22, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 22, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-signal:before {
-  content: "\f012"; }
+  content: ""; }
 
-/* line 24, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 23, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-gear:before,
 .fa-cog:before {
-  content: "\f013"; }
+  content: ""; }
 
-/* line 25, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 25, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-trash-o:before {
-  content: "\f014"; }
+  content: ""; }
 
-/* line 26, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 26, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-home:before {
-  content: "\f015"; }
+  content: ""; }
 
-/* line 27, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 27, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-file-o:before {
-  content: "\f016"; }
+  content: ""; }
 
-/* line 28, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 28, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-clock-o:before {
-  content: "\f017"; }
+  content: ""; }
 
-/* line 29, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 29, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-road:before {
-  content: "\f018"; }
+  content: ""; }
 
-/* line 30, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 30, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-download:before {
-  content: "\f019"; }
+  content: ""; }
 
-/* line 31, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 31, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrow-circle-o-down:before {
-  content: "\f01a"; }
+  content: ""; }
 
-/* line 32, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 32, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrow-circle-o-up:before {
-  content: "\f01b"; }
+  content: ""; }
 
-/* line 33, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 33, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-inbox:before {
-  content: "\f01c"; }
+  content: ""; }
 
-/* line 34, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 34, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-play-circle-o:before {
-  content: "\f01d"; }
+  content: ""; }
 
-/* line 36, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 35, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-rotate-right:before,
 .fa-repeat:before {
-  content: "\f01e"; }
+  content: ""; }
 
-/* line 37, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 37, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-refresh:before {
-  content: "\f021"; }
+  content: ""; }
 
-/* line 38, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 38, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-list-alt:before {
-  content: "\f022"; }
+  content: ""; }
 
-/* line 39, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 39, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-lock:before {
-  content: "\f023"; }
+  content: ""; }
 
-/* line 40, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 40, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-flag:before {
-  content: "\f024"; }
+  content: ""; }
 
-/* line 41, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 41, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-headphones:before {
-  content: "\f025"; }
+  content: ""; }
 
-/* line 42, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 42, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-volume-off:before {
-  content: "\f026"; }
+  content: ""; }
 
-/* line 43, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 43, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-volume-down:before {
-  content: "\f027"; }
+  content: ""; }
 
-/* line 44, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 44, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-volume-up:before {
-  content: "\f028"; }
+  content: ""; }
 
-/* line 45, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 45, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-qrcode:before {
-  content: "\f029"; }
+  content: ""; }
 
-/* line 46, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 46, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-barcode:before {
-  content: "\f02a"; }
+  content: ""; }
 
-/* line 47, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 47, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-tag:before {
-  content: "\f02b"; }
+  content: ""; }
 
-/* line 48, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 48, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-tags:before {
-  content: "\f02c"; }
+  content: ""; }
 
-/* line 49, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 49, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-book:before {
-  content: "\f02d"; }
+  content: ""; }
 
-/* line 50, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 50, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-bookmark:before {
-  content: "\f02e"; }
+  content: ""; }
 
-/* line 51, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 51, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-print:before {
-  content: "\f02f"; }
+  content: ""; }
 
-/* line 52, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 52, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-camera:before {
-  content: "\f030"; }
+  content: ""; }
 
-/* line 53, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 53, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-font:before {
-  content: "\f031"; }
+  content: ""; }
 
-/* line 54, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 54, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-bold:before {
-  content: "\f032"; }
+  content: ""; }
 
-/* line 55, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 55, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-italic:before {
-  content: "\f033"; }
+  content: ""; }
 
-/* line 56, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 56, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-text-height:before {
-  content: "\f034"; }
+  content: ""; }
 
-/* line 57, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 57, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-text-width:before {
-  content: "\f035"; }
+  content: ""; }
 
-/* line 58, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 58, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-align-left:before {
-  content: "\f036"; }
+  content: ""; }
 
-/* line 59, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 59, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-align-center:before {
-  content: "\f037"; }
+  content: ""; }
 
-/* line 60, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 60, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-align-right:before {
-  content: "\f038"; }
+  content: ""; }
 
-/* line 61, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 61, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-align-justify:before {
-  content: "\f039"; }
+  content: ""; }
 
-/* line 62, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 62, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-list:before {
-  content: "\f03a"; }
+  content: ""; }
 
-/* line 64, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 63, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-dedent:before,
 .fa-outdent:before {
-  content: "\f03b"; }
+  content: ""; }
 
-/* line 65, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 65, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-indent:before {
-  content: "\f03c"; }
+  content: ""; }
 
-/* line 66, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 66, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-video-camera:before {
-  content: "\f03d"; }
+  content: ""; }
 
-/* line 67, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 67, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-picture-o:before {
-  content: "\f03e"; }
+  content: ""; }
 
-/* line 68, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 68, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-pencil:before {
-  content: "\f040"; }
+  content: ""; }
 
-/* line 69, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 69, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-map-marker:before {
-  content: "\f041"; }
+  content: ""; }
 
-/* line 70, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 70, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-adjust:before {
-  content: "\f042"; }
+  content: ""; }
 
-/* line 71, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 71, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-tint:before {
-  content: "\f043"; }
+  content: ""; }
 
-/* line 73, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 72, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-edit:before,
 .fa-pencil-square-o:before {
-  content: "\f044"; }
+  content: ""; }
 
-/* line 74, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 74, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-share-square-o:before {
-  content: "\f045"; }
+  content: ""; }
 
-/* line 75, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 75, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-check-square-o:before {
-  content: "\f046"; }
+  content: ""; }
 
-/* line 76, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 76, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrows:before {
-  content: "\f047"; }
+  content: ""; }
 
-/* line 77, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 77, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-step-backward:before {
-  content: "\f048"; }
+  content: ""; }
 
-/* line 78, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 78, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-fast-backward:before {
-  content: "\f049"; }
+  content: ""; }
 
-/* line 79, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 79, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-backward:before {
-  content: "\f04a"; }
+  content: ""; }
 
-/* line 80, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 80, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-play:before {
-  content: "\f04b"; }
+  content: ""; }
 
-/* line 81, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 81, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-pause:before {
-  content: "\f04c"; }
+  content: ""; }
 
-/* line 82, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 82, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-stop:before {
-  content: "\f04d"; }
+  content: ""; }
 
-/* line 83, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 83, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-forward:before {
-  content: "\f04e"; }
+  content: ""; }
 
-/* line 84, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 84, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-fast-forward:before {
-  content: "\f050"; }
+  content: ""; }
 
-/* line 85, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 85, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-step-forward:before {
-  content: "\f051"; }
+  content: ""; }
 
-/* line 86, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 86, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-eject:before {
-  content: "\f052"; }
+  content: ""; }
 
-/* line 87, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 87, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-chevron-left:before {
-  content: "\f053"; }
+  content: ""; }
 
-/* line 88, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 88, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-chevron-right:before {
-  content: "\f054"; }
+  content: ""; }
 
-/* line 89, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 89, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-plus-circle:before {
-  content: "\f055"; }
+  content: ""; }
 
-/* line 90, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 90, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-minus-circle:before {
-  content: "\f056"; }
+  content: ""; }
 
-/* line 91, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 91, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-times-circle:before {
-  content: "\f057"; }
+  content: ""; }
 
-/* line 92, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 92, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-check-circle:before {
-  content: "\f058"; }
+  content: ""; }
 
-/* line 93, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 93, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-question-circle:before {
-  content: "\f059"; }
+  content: ""; }
 
-/* line 94, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 94, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-info-circle:before {
-  content: "\f05a"; }
+  content: ""; }
 
-/* line 95, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 95, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-crosshairs:before {
-  content: "\f05b"; }
+  content: ""; }
 
-/* line 96, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 96, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-times-circle-o:before {
-  content: "\f05c"; }
+  content: ""; }
 
-/* line 97, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 97, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-check-circle-o:before {
-  content: "\f05d"; }
+  content: ""; }
 
-/* line 98, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 98, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-ban:before {
-  content: "\f05e"; }
+  content: ""; }
 
-/* line 99, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 99, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrow-left:before {
-  content: "\f060"; }
+  content: ""; }
 
-/* line 100, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 100, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrow-right:before {
-  content: "\f061"; }
+  content: ""; }
 
-/* line 101, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 101, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrow-up:before {
-  content: "\f062"; }
+  content: ""; }
 
-/* line 102, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 102, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrow-down:before {
-  content: "\f063"; }
+  content: ""; }
 
-/* line 104, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 103, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-mail-forward:before,
 .fa-share:before {
-  content: "\f064"; }
+  content: ""; }
 
-/* line 105, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 105, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-expand:before {
-  content: "\f065"; }
+  content: ""; }
 
-/* line 106, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 106, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-compress:before {
-  content: "\f066"; }
+  content: ""; }
 
-/* line 107, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 107, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-plus:before {
-  content: "\f067"; }
+  content: ""; }
 
-/* line 108, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 108, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-minus:before {
-  content: "\f068"; }
+  content: ""; }
 
-/* line 109, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 109, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-asterisk:before {
-  content: "\f069"; }
+  content: ""; }
 
-/* line 110, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 110, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-exclamation-circle:before {
-  content: "\f06a"; }
+  content: ""; }
 
-/* line 111, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 111, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-gift:before {
-  content: "\f06b"; }
+  content: ""; }
 
-/* line 112, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 112, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-leaf:before {
-  content: "\f06c"; }
+  content: ""; }
 
-/* line 113, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 113, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-fire:before {
-  content: "\f06d"; }
+  content: ""; }
 
-/* line 114, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 114, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-eye:before {
-  content: "\f06e"; }
+  content: ""; }
 
-/* line 115, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 115, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-eye-slash:before {
-  content: "\f070"; }
+  content: ""; }
 
-/* line 117, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 116, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-warning:before,
 .fa-exclamation-triangle:before {
-  content: "\f071"; }
+  content: ""; }
 
-/* line 118, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 118, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-plane:before {
-  content: "\f072"; }
+  content: ""; }
 
-/* line 119, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 119, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-calendar:before {
-  content: "\f073"; }
+  content: ""; }
 
-/* line 120, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 120, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-random:before {
-  content: "\f074"; }
+  content: ""; }
 
-/* line 121, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 121, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-comment:before {
-  content: "\f075"; }
+  content: ""; }
 
-/* line 122, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 122, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-magnet:before {
-  content: "\f076"; }
+  content: ""; }
 
-/* line 123, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 123, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-chevron-up:before {
-  content: "\f077"; }
+  content: ""; }
 
-/* line 124, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 124, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-chevron-down:before {
-  content: "\f078"; }
+  content: ""; }
 
-/* line 125, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 125, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-retweet:before {
-  content: "\f079"; }
+  content: ""; }
 
-/* line 126, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 126, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-shopping-cart:before {
-  content: "\f07a"; }
+  content: ""; }
 
-/* line 127, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 127, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-folder:before {
-  content: "\f07b"; }
+  content: ""; }
 
-/* line 128, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 128, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-folder-open:before {
-  content: "\f07c"; }
+  content: ""; }
 
-/* line 129, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 129, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrows-v:before {
-  content: "\f07d"; }
+  content: ""; }
 
-/* line 130, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 130, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrows-h:before {
-  content: "\f07e"; }
+  content: ""; }
 
-/* line 131, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 131, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-bar-chart-o:before {
-  content: "\f080"; }
+  content: ""; }
 
-/* line 132, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 132, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-twitter-square:before {
-  content: "\f081"; }
+  content: ""; }
 
-/* line 133, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 133, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-facebook-square:before {
-  content: "\f082"; }
+  content: ""; }
 
-/* line 134, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 134, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-camera-retro:before {
-  content: "\f083"; }
+  content: ""; }
 
-/* line 135, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 135, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-key:before {
-  content: "\f084"; }
+  content: ""; }
 
-/* line 137, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 136, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-gears:before,
 .fa-cogs:before {
-  content: "\f085"; }
+  content: ""; }
 
-/* line 138, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 138, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-comments:before {
-  content: "\f086"; }
+  content: ""; }
 
-/* line 139, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 139, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-thumbs-o-up:before {
-  content: "\f087"; }
+  content: ""; }
 
-/* line 140, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 140, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-thumbs-o-down:before {
-  content: "\f088"; }
+  content: ""; }
 
-/* line 141, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 141, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-star-half:before {
-  content: "\f089"; }
+  content: ""; }
 
-/* line 142, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 142, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-heart-o:before {
-  content: "\f08a"; }
+  content: ""; }
 
-/* line 143, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 143, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-sign-out:before {
-  content: "\f08b"; }
+  content: ""; }
 
-/* line 144, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 144, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-linkedin-square:before {
-  content: "\f08c"; }
+  content: ""; }
 
-/* line 145, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 145, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-thumb-tack:before {
-  content: "\f08d"; }
+  content: ""; }
 
-/* line 146, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 146, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-external-link:before {
-  content: "\f08e"; }
+  content: ""; }
 
-/* line 147, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 147, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-sign-in:before {
-  content: "\f090"; }
+  content: ""; }
 
-/* line 148, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 148, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-trophy:before {
-  content: "\f091"; }
+  content: ""; }
 
-/* line 149, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 149, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-github-square:before {
-  content: "\f092"; }
+  content: ""; }
 
-/* line 150, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 150, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-upload:before {
-  content: "\f093"; }
+  content: ""; }
 
-/* line 151, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 151, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-lemon-o:before {
-  content: "\f094"; }
+  content: ""; }
 
-/* line 152, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 152, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-phone:before {
-  content: "\f095"; }
+  content: ""; }
 
-/* line 153, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 153, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-square-o:before {
-  content: "\f096"; }
+  content: ""; }
 
-/* line 154, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 154, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-bookmark-o:before {
-  content: "\f097"; }
+  content: ""; }
 
-/* line 155, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 155, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-phone-square:before {
-  content: "\f098"; }
+  content: ""; }
 
-/* line 156, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 156, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-twitter:before {
-  content: "\f099"; }
+  content: ""; }
 
-/* line 157, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 157, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-facebook:before {
-  content: "\f09a"; }
+  content: ""; }
 
-/* line 158, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 158, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-github:before {
-  content: "\f09b"; }
+  content: ""; }
 
-/* line 159, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 159, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-unlock:before {
-  content: "\f09c"; }
+  content: ""; }
 
-/* line 160, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 160, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-credit-card:before {
-  content: "\f09d"; }
+  content: ""; }
 
-/* line 161, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 161, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-rss:before {
-  content: "\f09e"; }
+  content: ""; }
 
-/* line 162, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 162, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-hdd-o:before {
-  content: "\f0a0"; }
+  content: ""; }
 
-/* line 163, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 163, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-bullhorn:before {
-  content: "\f0a1"; }
+  content: ""; }
 
-/* line 164, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 164, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-bell:before {
-  content: "\f0f3"; }
+  content: ""; }
 
-/* line 165, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 165, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-certificate:before {
-  content: "\f0a3"; }
+  content: ""; }
 
-/* line 166, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 166, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-hand-o-right:before {
-  content: "\f0a4"; }
+  content: ""; }
 
-/* line 167, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 167, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-hand-o-left:before {
-  content: "\f0a5"; }
+  content: ""; }
 
-/* line 168, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 168, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-hand-o-up:before {
-  content: "\f0a6"; }
+  content: ""; }
 
-/* line 169, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 169, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-hand-o-down:before {
-  content: "\f0a7"; }
+  content: ""; }
 
-/* line 170, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 170, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrow-circle-left:before {
-  content: "\f0a8"; }
+  content: ""; }
 
-/* line 171, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 171, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrow-circle-right:before {
-  content: "\f0a9"; }
+  content: ""; }
 
-/* line 172, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 172, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrow-circle-up:before {
-  content: "\f0aa"; }
+  content: ""; }
 
-/* line 173, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 173, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrow-circle-down:before {
-  content: "\f0ab"; }
+  content: ""; }
 
-/* line 174, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 174, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-globe:before {
-  content: "\f0ac"; }
+  content: ""; }
 
-/* line 175, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 175, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-wrench:before {
-  content: "\f0ad"; }
+  content: ""; }
 
-/* line 176, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 176, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-tasks:before {
-  content: "\f0ae"; }
+  content: ""; }
 
-/* line 177, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 177, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-filter:before {
-  content: "\f0b0"; }
+  content: ""; }
 
-/* line 178, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 178, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-briefcase:before {
-  content: "\f0b1"; }
+  content: ""; }
 
-/* line 179, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 179, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrows-alt:before {
-  content: "\f0b2"; }
+  content: ""; }
 
-/* line 181, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 180, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-group:before,
 .fa-users:before {
-  content: "\f0c0"; }
+  content: ""; }
 
-/* line 183, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 182, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-chain:before,
 .fa-link:before {
-  content: "\f0c1"; }
+  content: ""; }
 
-/* line 184, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 184, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-cloud:before {
-  content: "\f0c2"; }
+  content: ""; }
 
-/* line 185, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 185, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-flask:before {
-  content: "\f0c3"; }
+  content: ""; }
 
-/* line 187, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 186, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-cut:before,
 .fa-scissors:before {
-  content: "\f0c4"; }
+  content: ""; }
 
-/* line 189, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 188, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-copy:before,
 .fa-files-o:before {
-  content: "\f0c5"; }
+  content: ""; }
 
-/* line 190, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 190, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-paperclip:before {
-  content: "\f0c6"; }
+  content: ""; }
 
-/* line 192, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 191, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-save:before,
 .fa-floppy-o:before {
-  content: "\f0c7"; }
+  content: ""; }
 
-/* line 193, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 193, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-square:before {
-  content: "\f0c8"; }
+  content: ""; }
 
-/* line 194, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 194, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-bars:before {
-  content: "\f0c9"; }
+  content: ""; }
 
-/* line 195, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 195, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-list-ul:before {
-  content: "\f0ca"; }
+  content: ""; }
 
-/* line 196, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 196, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-list-ol:before {
-  content: "\f0cb"; }
+  content: ""; }
 
-/* line 197, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 197, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-strikethrough:before {
-  content: "\f0cc"; }
+  content: ""; }
 
-/* line 198, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 198, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-underline:before {
-  content: "\f0cd"; }
+  content: ""; }
 
-/* line 199, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 199, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-table:before {
-  content: "\f0ce"; }
+  content: ""; }
 
-/* line 200, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 200, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-magic:before {
-  content: "\f0d0"; }
+  content: ""; }
 
-/* line 201, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 201, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-truck:before {
-  content: "\f0d1"; }
+  content: ""; }
 
-/* line 202, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 202, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-pinterest:before {
-  content: "\f0d2"; }
+  content: ""; }
 
-/* line 203, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 203, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-pinterest-square:before {
-  content: "\f0d3"; }
+  content: ""; }
 
-/* line 204, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 204, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-google-plus-square:before {
-  content: "\f0d4"; }
+  content: ""; }
 
-/* line 205, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 205, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-google-plus:before {
-  content: "\f0d5"; }
+  content: ""; }
 
-/* line 206, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 206, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-money:before {
-  content: "\f0d6"; }
+  content: ""; }
 
-/* line 207, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 207, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-caret-down:before {
-  content: "\f0d7"; }
+  content: ""; }
 
-/* line 208, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 208, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-caret-up:before {
-  content: "\f0d8"; }
+  content: ""; }
 
-/* line 209, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 209, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-caret-left:before {
-  content: "\f0d9"; }
+  content: ""; }
 
-/* line 210, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 210, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-caret-right:before {
-  content: "\f0da"; }
+  content: ""; }
 
-/* line 211, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 211, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-columns:before {
-  content: "\f0db"; }
+  content: ""; }
 
-/* line 213, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 212, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-unsorted:before,
 .fa-sort:before {
-  content: "\f0dc"; }
+  content: ""; }
 
-/* line 215, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 214, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-sort-down:before,
 .fa-sort-asc:before {
-  content: "\f0dd"; }
+  content: ""; }
 
-/* line 217, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 216, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-sort-up:before,
 .fa-sort-desc:before {
-  content: "\f0de"; }
+  content: ""; }
 
-/* line 218, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 218, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-envelope:before {
-  content: "\f0e0"; }
+  content: ""; }
 
-/* line 219, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 219, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-linkedin:before {
-  content: "\f0e1"; }
+  content: ""; }
 
-/* line 221, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 220, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-rotate-left:before,
 .fa-undo:before {
-  content: "\f0e2"; }
+  content: ""; }
 
-/* line 223, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 222, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-legal:before,
 .fa-gavel:before {
-  content: "\f0e3"; }
+  content: ""; }
 
-/* line 225, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 224, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-dashboard:before,
 .fa-tachometer:before {
-  content: "\f0e4"; }
+  content: ""; }
 
-/* line 226, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 226, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-comment-o:before {
-  content: "\f0e5"; }
+  content: ""; }
 
-/* line 227, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 227, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-comments-o:before {
-  content: "\f0e6"; }
+  content: ""; }
 
-/* line 229, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 228, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-flash:before,
 .fa-bolt:before {
-  content: "\f0e7"; }
+  content: ""; }
 
-/* line 230, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 230, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-sitemap:before {
-  content: "\f0e8"; }
+  content: ""; }
 
-/* line 231, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 231, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-umbrella:before {
-  content: "\f0e9"; }
+  content: ""; }
 
-/* line 233, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 232, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-paste:before,
 .fa-clipboard:before {
-  content: "\f0ea"; }
+  content: ""; }
 
-/* line 234, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 234, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-lightbulb-o:before {
-  content: "\f0eb"; }
+  content: ""; }
 
-/* line 235, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 235, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-exchange:before {
-  content: "\f0ec"; }
+  content: ""; }
 
-/* line 236, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 236, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-cloud-download:before {
-  content: "\f0ed"; }
+  content: ""; }
 
-/* line 237, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 237, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-cloud-upload:before {
-  content: "\f0ee"; }
+  content: ""; }
 
-/* line 238, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 238, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-user-md:before {
-  content: "\f0f0"; }
+  content: ""; }
 
-/* line 239, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 239, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-stethoscope:before {
-  content: "\f0f1"; }
+  content: ""; }
 
-/* line 240, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 240, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-suitcase:before {
-  content: "\f0f2"; }
+  content: ""; }
 
-/* line 241, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 241, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-bell-o:before {
-  content: "\f0a2"; }
+  content: ""; }
 
-/* line 242, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 242, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-coffee:before {
-  content: "\f0f4"; }
+  content: ""; }
 
-/* line 243, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 243, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-cutlery:before {
-  content: "\f0f5"; }
+  content: ""; }
 
-/* line 244, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 244, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-file-text-o:before {
-  content: "\f0f6"; }
+  content: ""; }
 
-/* line 245, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 245, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-building-o:before {
-  content: "\f0f7"; }
+  content: ""; }
 
-/* line 246, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 246, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-hospital-o:before {
-  content: "\f0f8"; }
+  content: ""; }
 
-/* line 247, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 247, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-ambulance:before {
-  content: "\f0f9"; }
+  content: ""; }
 
-/* line 248, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 248, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-medkit:before {
-  content: "\f0fa"; }
+  content: ""; }
 
-/* line 249, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 249, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-fighter-jet:before {
-  content: "\f0fb"; }
+  content: ""; }
 
-/* line 250, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 250, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-beer:before {
-  content: "\f0fc"; }
+  content: ""; }
 
-/* line 251, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 251, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-h-square:before {
-  content: "\f0fd"; }
+  content: ""; }
 
-/* line 252, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 252, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-plus-square:before {
-  content: "\f0fe"; }
+  content: ""; }
 
-/* line 253, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 253, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-angle-double-left:before {
-  content: "\f100"; }
+  content: ""; }
 
-/* line 254, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 254, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-angle-double-right:before {
-  content: "\f101"; }
+  content: ""; }
 
-/* line 255, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 255, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-angle-double-up:before {
-  content: "\f102"; }
+  content: ""; }
 
-/* line 256, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 256, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-angle-double-down:before {
-  content: "\f103"; }
+  content: ""; }
 
-/* line 257, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 257, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-angle-left:before {
-  content: "\f104"; }
+  content: ""; }
 
-/* line 258, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 258, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-angle-right:before {
-  content: "\f105"; }
+  content: ""; }
 
-/* line 259, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 259, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-angle-up:before {
-  content: "\f106"; }
+  content: ""; }
 
-/* line 260, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 260, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-angle-down:before {
-  content: "\f107"; }
+  content: ""; }
 
-/* line 261, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 261, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-desktop:before {
-  content: "\f108"; }
+  content: ""; }
 
-/* line 262, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 262, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-laptop:before {
-  content: "\f109"; }
+  content: ""; }
 
-/* line 263, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 263, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-tablet:before {
-  content: "\f10a"; }
+  content: ""; }
 
-/* line 265, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 264, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-mobile-phone:before,
 .fa-mobile:before {
-  content: "\f10b"; }
+  content: ""; }
 
-/* line 266, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 266, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-circle-o:before {
-  content: "\f10c"; }
+  content: ""; }
 
-/* line 267, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 267, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-quote-left:before {
-  content: "\f10d"; }
+  content: ""; }
 
-/* line 268, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 268, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-quote-right:before {
-  content: "\f10e"; }
+  content: ""; }
 
-/* line 269, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 269, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-spinner:before {
-  content: "\f110"; }
+  content: ""; }
 
-/* line 270, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 270, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-circle:before {
-  content: "\f111"; }
+  content: ""; }
 
-/* line 272, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 271, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-mail-reply:before,
 .fa-reply:before {
-  content: "\f112"; }
+  content: ""; }
 
-/* line 273, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 273, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-github-alt:before {
-  content: "\f113"; }
+  content: ""; }
 
-/* line 274, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 274, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-folder-o:before {
-  content: "\f114"; }
+  content: ""; }
 
-/* line 275, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 275, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-folder-open-o:before {
-  content: "\f115"; }
+  content: ""; }
 
-/* line 276, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 276, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-smile-o:before {
-  content: "\f118"; }
+  content: ""; }
 
-/* line 277, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 277, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-frown-o:before {
-  content: "\f119"; }
+  content: ""; }
 
-/* line 278, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 278, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-meh-o:before {
-  content: "\f11a"; }
+  content: ""; }
 
-/* line 279, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 279, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-gamepad:before {
-  content: "\f11b"; }
+  content: ""; }
 
-/* line 280, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 280, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-keyboard-o:before {
-  content: "\f11c"; }
+  content: ""; }
 
-/* line 281, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 281, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-flag-o:before {
-  content: "\f11d"; }
+  content: ""; }
 
-/* line 282, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 282, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-flag-checkered:before {
-  content: "\f11e"; }
+  content: ""; }
 
-/* line 283, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 283, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-terminal:before {
-  content: "\f120"; }
+  content: ""; }
 
-/* line 284, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 284, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-code:before {
-  content: "\f121"; }
+  content: ""; }
 
-/* line 285, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 285, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-reply-all:before {
-  content: "\f122"; }
+  content: ""; }
 
-/* line 286, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 286, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-mail-reply-all:before {
-  content: "\f122"; }
+  content: ""; }
 
-/* line 289, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 287, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-star-half-empty:before,
 .fa-star-half-full:before,
 .fa-star-half-o:before {
-  content: "\f123"; }
+  content: ""; }
 
-/* line 290, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 290, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-location-arrow:before {
-  content: "\f124"; }
+  content: ""; }
 
-/* line 291, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 291, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-crop:before {
-  content: "\f125"; }
+  content: ""; }
 
-/* line 292, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 292, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-code-fork:before {
-  content: "\f126"; }
+  content: ""; }
 
-/* line 294, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 293, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-unlink:before,
 .fa-chain-broken:before {
-  content: "\f127"; }
+  content: ""; }
 
-/* line 295, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 295, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-question:before {
-  content: "\f128"; }
+  content: ""; }
 
-/* line 296, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 296, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-info:before {
-  content: "\f129"; }
+  content: ""; }
 
-/* line 297, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 297, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-exclamation:before {
-  content: "\f12a"; }
+  content: ""; }
 
-/* line 298, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 298, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-superscript:before {
-  content: "\f12b"; }
+  content: ""; }
 
-/* line 299, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 299, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-subscript:before {
-  content: "\f12c"; }
+  content: ""; }
 
-/* line 300, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 300, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-eraser:before {
-  content: "\f12d"; }
+  content: ""; }
 
-/* line 301, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 301, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-puzzle-piece:before {
-  content: "\f12e"; }
+  content: ""; }
 
-/* line 302, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 302, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-microphone:before {
-  content: "\f130"; }
+  content: ""; }
 
-/* line 303, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 303, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-microphone-slash:before {
-  content: "\f131"; }
+  content: ""; }
 
-/* line 304, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 304, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-shield:before {
-  content: "\f132"; }
+  content: ""; }
 
-/* line 305, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 305, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-calendar-o:before {
-  content: "\f133"; }
+  content: ""; }
 
-/* line 306, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 306, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-fire-extinguisher:before {
-  content: "\f134"; }
+  content: ""; }
 
-/* line 307, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 307, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-rocket:before {
-  content: "\f135"; }
+  content: ""; }
 
-/* line 308, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 308, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-maxcdn:before {
-  content: "\f136"; }
+  content: ""; }
 
-/* line 309, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 309, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-chevron-circle-left:before {
-  content: "\f137"; }
+  content: ""; }
 
-/* line 310, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 310, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-chevron-circle-right:before {
-  content: "\f138"; }
+  content: ""; }
 
-/* line 311, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 311, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-chevron-circle-up:before {
-  content: "\f139"; }
+  content: ""; }
 
-/* line 312, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 312, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-chevron-circle-down:before {
-  content: "\f13a"; }
+  content: ""; }
 
-/* line 313, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 313, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-html5:before {
-  content: "\f13b"; }
+  content: ""; }
 
-/* line 314, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 314, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-css3:before {
-  content: "\f13c"; }
+  content: ""; }
 
-/* line 315, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 315, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-anchor:before {
-  content: "\f13d"; }
+  content: ""; }
 
-/* line 316, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 316, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-unlock-alt:before {
-  content: "\f13e"; }
+  content: ""; }
 
-/* line 317, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 317, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-bullseye:before {
-  content: "\f140"; }
+  content: ""; }
 
-/* line 318, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 318, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-ellipsis-h:before {
-  content: "\f141"; }
+  content: ""; }
 
-/* line 319, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 319, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-ellipsis-v:before {
-  content: "\f142"; }
+  content: ""; }
 
-/* line 320, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 320, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-rss-square:before {
-  content: "\f143"; }
+  content: ""; }
 
-/* line 321, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 321, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-play-circle:before {
-  content: "\f144"; }
+  content: ""; }
 
-/* line 322, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 322, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-ticket:before {
-  content: "\f145"; }
+  content: ""; }
 
-/* line 323, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 323, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-minus-square:before {
-  content: "\f146"; }
+  content: ""; }
 
-/* line 324, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 324, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-minus-square-o:before {
-  content: "\f147"; }
+  content: ""; }
 
-/* line 325, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 325, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-level-up:before {
-  content: "\f148"; }
+  content: ""; }
 
-/* line 326, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 326, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-level-down:before {
-  content: "\f149"; }
+  content: ""; }
 
-/* line 327, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 327, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-check-square:before {
-  content: "\f14a"; }
+  content: ""; }
 
-/* line 328, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 328, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-pencil-square:before {
-  content: "\f14b"; }
+  content: ""; }
 
-/* line 329, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 329, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-external-link-square:before {
-  content: "\f14c"; }
+  content: ""; }
 
-/* line 330, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 330, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-share-square:before {
-  content: "\f14d"; }
+  content: ""; }
 
-/* line 331, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 331, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-compass:before {
-  content: "\f14e"; }
+  content: ""; }
 
-/* line 333, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 332, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-toggle-down:before,
 .fa-caret-square-o-down:before {
-  content: "\f150"; }
+  content: ""; }
 
-/* line 335, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 334, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-toggle-up:before,
 .fa-caret-square-o-up:before {
-  content: "\f151"; }
+  content: ""; }
 
-/* line 337, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 336, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-toggle-right:before,
 .fa-caret-square-o-right:before {
-  content: "\f152"; }
+  content: ""; }
 
-/* line 339, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 338, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-euro:before,
 .fa-eur:before {
-  content: "\f153"; }
+  content: ""; }
 
-/* line 340, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 340, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-gbp:before {
-  content: "\f154"; }
+  content: ""; }
 
-/* line 342, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 341, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-dollar:before,
 .fa-usd:before {
-  content: "\f155"; }
+  content: ""; }
 
-/* line 344, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 343, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-rupee:before,
 .fa-inr:before {
-  content: "\f156"; }
+  content: ""; }
 
-/* line 348, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 345, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-cny:before,
 .fa-rmb:before,
 .fa-yen:before,
 .fa-jpy:before {
-  content: "\f157"; }
+  content: ""; }
 
-/* line 351, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 349, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-ruble:before,
 .fa-rouble:before,
 .fa-rub:before {
-  content: "\f158"; }
+  content: ""; }
 
-/* line 353, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 352, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-won:before,
 .fa-krw:before {
-  content: "\f159"; }
+  content: ""; }
 
-/* line 355, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 354, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-bitcoin:before,
 .fa-btc:before {
-  content: "\f15a"; }
+  content: ""; }
 
-/* line 356, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 356, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-file:before {
-  content: "\f15b"; }
+  content: ""; }
 
-/* line 357, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 357, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-file-text:before {
-  content: "\f15c"; }
+  content: ""; }
 
-/* line 358, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 358, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-sort-alpha-asc:before {
-  content: "\f15d"; }
+  content: ""; }
 
-/* line 359, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 359, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-sort-alpha-desc:before {
-  content: "\f15e"; }
+  content: ""; }
 
-/* line 360, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 360, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-sort-amount-asc:before {
-  content: "\f160"; }
+  content: ""; }
 
-/* line 361, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 361, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-sort-amount-desc:before {
-  content: "\f161"; }
+  content: ""; }
 
-/* line 362, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 362, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-sort-numeric-asc:before {
-  content: "\f162"; }
+  content: ""; }
 
-/* line 363, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 363, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-sort-numeric-desc:before {
-  content: "\f163"; }
+  content: ""; }
 
-/* line 364, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 364, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-thumbs-up:before {
-  content: "\f164"; }
+  content: ""; }
 
-/* line 365, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 365, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-thumbs-down:before {
-  content: "\f165"; }
+  content: ""; }
 
-/* line 366, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 366, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-youtube-square:before {
-  content: "\f166"; }
+  content: ""; }
 
-/* line 367, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 367, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-youtube:before {
-  content: "\f167"; }
+  content: ""; }
 
-/* line 368, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 368, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-xing:before {
-  content: "\f168"; }
+  content: ""; }
 
-/* line 369, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 369, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-xing-square:before {
-  content: "\f169"; }
+  content: ""; }
 
-/* line 370, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 370, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-youtube-play:before {
-  content: "\f16a"; }
+  content: ""; }
 
-/* line 371, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 371, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-dropbox:before {
-  content: "\f16b"; }
+  content: ""; }
 
-/* line 372, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 372, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-stack-overflow:before {
-  content: "\f16c"; }
+  content: ""; }
 
-/* line 373, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 373, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-instagram:before {
-  content: "\f16d"; }
+  content: ""; }
 
-/* line 374, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 374, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-flickr:before {
-  content: "\f16e"; }
+  content: ""; }
 
-/* line 375, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 375, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-adn:before {
-  content: "\f170"; }
+  content: ""; }
 
-/* line 376, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 376, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-bitbucket:before {
-  content: "\f171"; }
+  content: ""; }
 
-/* line 377, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 377, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-bitbucket-square:before {
-  content: "\f172"; }
+  content: ""; }
 
-/* line 378, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 378, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-tumblr:before {
-  content: "\f173"; }
+  content: ""; }
 
-/* line 379, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 379, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-tumblr-square:before {
-  content: "\f174"; }
+  content: ""; }
 
-/* line 380, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 380, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-long-arrow-down:before {
-  content: "\f175"; }
+  content: ""; }
 
-/* line 381, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 381, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-long-arrow-up:before {
-  content: "\f176"; }
+  content: ""; }
 
-/* line 382, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 382, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-long-arrow-left:before {
-  content: "\f177"; }
+  content: ""; }
 
-/* line 383, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 383, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-long-arrow-right:before {
-  content: "\f178"; }
+  content: ""; }
 
-/* line 384, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 384, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-apple:before {
-  content: "\f179"; }
+  content: ""; }
 
-/* line 385, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 385, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-windows:before {
-  content: "\f17a"; }
+  content: ""; }
 
-/* line 386, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 386, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-android:before {
-  content: "\f17b"; }
+  content: ""; }
 
-/* line 387, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 387, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-linux:before {
-  content: "\f17c"; }
+  content: ""; }
 
-/* line 388, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 388, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-dribbble:before {
-  content: "\f17d"; }
+  content: ""; }
 
-/* line 389, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 389, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-skype:before {
-  content: "\f17e"; }
+  content: ""; }
 
-/* line 390, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 390, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-foursquare:before {
-  content: "\f180"; }
+  content: ""; }
 
-/* line 391, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 391, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-trello:before {
-  content: "\f181"; }
+  content: ""; }
 
-/* line 392, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 392, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-female:before {
-  content: "\f182"; }
+  content: ""; }
 
-/* line 393, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 393, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-male:before {
-  content: "\f183"; }
+  content: ""; }
 
-/* line 394, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 394, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-gittip:before {
-  content: "\f184"; }
+  content: ""; }
 
-/* line 395, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 395, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-sun-o:before {
-  content: "\f185"; }
+  content: ""; }
 
-/* line 396, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 396, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-moon-o:before {
-  content: "\f186"; }
+  content: ""; }
 
-/* line 397, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 397, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-archive:before {
-  content: "\f187"; }
+  content: ""; }
 
-/* line 398, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 398, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-bug:before {
-  content: "\f188"; }
+  content: ""; }
 
-/* line 399, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 399, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-vk:before {
-  content: "\f189"; }
+  content: ""; }
 
-/* line 400, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 400, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-weibo:before {
-  content: "\f18a"; }
+  content: ""; }
 
-/* line 401, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 401, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-renren:before {
-  content: "\f18b"; }
+  content: ""; }
 
-/* line 402, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 402, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-pagelines:before {
-  content: "\f18c"; }
+  content: ""; }
 
-/* line 403, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 403, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-stack-exchange:before {
-  content: "\f18d"; }
+  content: ""; }
 
-/* line 404, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 404, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrow-circle-o-right:before {
-  content: "\f18e"; }
+  content: ""; }
 
-/* line 405, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 405, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-arrow-circle-o-left:before {
-  content: "\f190"; }
+  content: ""; }
 
-/* line 407, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 406, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-toggle-left:before,
 .fa-caret-square-o-left:before {
-  content: "\f191"; }
+  content: ""; }
 
-/* line 408, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 408, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-dot-circle-o:before {
-  content: "\f192"; }
+  content: ""; }
 
-/* line 409, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 409, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-wheelchair:before {
-  content: "\f193"; }
+  content: ""; }
 
-/* line 410, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 410, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-vimeo-square:before {
-  content: "\f194"; }
+  content: ""; }
 
-/* line 412, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 411, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-turkish-lira:before,
 .fa-try:before {
-  content: "\f195"; }
+  content: ""; }
 
-/* line 413, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
+/* line 413, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/font-awesome-middleman-4.0.3/app/assets/stylesheets/_icons.scss */
 .fa-plus-square-o:before {
-  content: "\f196"; }
+  content: ""; }
 
-/* line 23, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 23, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 body {
-  background-color: black;
+  background-color: #000;
   background-image: url(/images/a4-evolution.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: 50% 0;
-  color: white;
+  color: #fff;
   min-height: 1200px;
   font-family: "ff-meta-serif-web-pro", serif; }
 
-/* line 33, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 33, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 header {
   position: relative; }
-  /* line 35, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+  /* line 35, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
   header a {
     display: block;
     width: 100%;
     height: 100%;
-    color: white;
+    color: #fff;
     text-decoration: none; }
 
-/* line 41, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 41, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 nav {
   background-color: rgba(0, 0, 0, 0.5); }
 
-/* line 44, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 44, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 #main {
   padding-bottom: 2em;
   background-color: rgba(0, 0, 0, 0.7); }
 
-/* line 48, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 48, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 footer {
   background-color: rgba(0, 0, 0, 0.8); }
 
-/* line 53, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 53, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 nav li:hover {
   background-color: rgba(255, 255, 255, 0.2); }
-/* line 57, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 57, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 nav #ilmo-link a {
   background-color: rgba(249, 104, 38, 0.8); }
 
-/* line 60, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 60, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 h1 {
-  color: #eeeeee;
+  color: #eee;
   text-transform: uppercase;
   line-height: 1em;
   font-family: "neuzon", sans-serif; }
 
-/* line 65, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 65, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 h2 {
   line-height: 1.3em;
   font-family: "neuzon", sans-serif; }
 
-/* line 68, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 68, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 kbd {
-  background-color: whitesmoke;
+  background-color: #f5f5f5;
   border: 1px solid #dedede;
   padding: 0px 3px 2px; }
 
-/* line 73, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 73, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 a {
   color: #ff7e1f; }
 
-/* line 78, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 78, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 .container img {
   max-width: 100%;
   height: auto; }
 
-/* line 83, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 83, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 footer {
   vertical-align: bottom;
   position: relative; }
-  /* line 86, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+  /* line 86, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
   footer p {
     position: relative;
     overflow: hidden; }
-  /* line 89, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+  /* line 89, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
   footer a {
     padding: auto;
     display: inline-block;
@@ -2325,93 +2310,92 @@ footer {
     text-decoration: none;
     margin-right: 2em;
     margin-top: 1em; }
-    /* line 100, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+    /* line 100, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
     footer a#gopal {
       padding: 5px;
-      background-color: white; }
-    /* line 103, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+      background-color: #fff; }
+    /* line 103, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
     footer a img {
       display: block;
       max-width: 100%;
       margin: auto; }
 
-/* line 113, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 113, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 h1 {
   font-size: 1.5em; }
 
-/* line 113, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 113, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 h1 {
   font-size: 1.5em; }
 
-/* line 113, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+/* line 113, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
 h1 {
   font-size: 1.5em; }
 
 @media (min-width: 620px) {
-  /* line 117, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+  /* line 117, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
   h1 {
     font-size: 2em; } }
 @media (min-width: 940px) {
-  /* line 121, /Users/jarkko/Sites/trailcup/source/stylesheets/screen.css.sass */
+  /* line 121, /Users/jarkko/sites/trailcup/source/stylesheets/screen.css.sass */
   h1 {
     font-size: 3em; } }
 @media print {
-  /* line 11, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
+  /* line 11, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
   * {
     background: transparent !important;
     color: #000 !important;
     box-shadow: none !important;
     text-shadow: none !important; }
 
-  /* line 19, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
+  /* line 18, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
   a,
   a:visited {
     text-decoration: underline; }
 
-  /* line 23, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
+  /* line 23, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
   a[href]:after {
     content: " (" attr(href) ")"; }
 
-  /* line 27, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
+  /* line 27, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
   abbr[title]:after {
     content: " (" attr(title) ")"; }
 
-  /* line 37, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
+  /* line 35, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
   .ir a:after,
   a[href^="javascript:"]:after,
   a[href^="#"]:after {
     content: ""; }
 
-  /* line 42, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
+  /* line 41, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
   pre,
   blockquote {
     border: 1px solid #999;
     page-break-inside: avoid; }
 
-  /* line 47, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
+  /* line 47, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
   thead {
     display: table-header-group; }
 
-  /* line 52, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
+  /* line 51, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
   tr,
   img {
     page-break-inside: avoid; }
 
-  /* line 56, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
+  /* line 56, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
   img {
     max-width: 100% !important; }
 
   @page {
     margin: 0.5cm; }
-
-  /* line 66, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
+  /* line 64, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
   p,
   h2,
   h3 {
     orphans: 3;
     widows: 3; }
 
-  /* line 72, /Users/jarkko/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
+  /* line 71, /Users/jarkko/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/compass-h5bp-0.1.2/stylesheets/h5bp/_media.scss */
   h2,
   h3 {
     page-break-after: avoid; } }
